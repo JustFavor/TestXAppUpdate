@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>XApp Pro</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 12 Mar 2024 17:11:45 +0800</pubDate>
+            <sparkle:version>2024030201</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="XApp%20Pro.app.zip" length="8248415" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
+        </item>
+    </channel>
+</rss>

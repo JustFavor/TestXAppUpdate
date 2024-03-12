@@ -8,6 +8,9 @@
             <sparkle:version>2024030201</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <description>
+<![CDATA[ <ul> <li> 更新</br> 1.修复开机自启动问题</br> 2.修复App内链接错误问题</br> </li> </ul> ]]>
+            </description>
             <enclosure url="https://raw.githubusercontent.com/JustFavor/TestXAppUpdate/master/XAppPro.zip" length="8248415" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
         </item>
     </channel>

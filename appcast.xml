@@ -8,7 +8,7 @@
             <sparkle:version>2024030201</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="XApp%20Pro.app.zip" length="8248415" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/JustFavor/TestXAppUpdate/master/XAppPro.zip" length="8248415" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
         </item>
     </channel>
 </rss>
